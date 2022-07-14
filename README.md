@@ -1,12 +1,12 @@
 Lunch Tray - Starter Code
 ==================================
 
-Starter code for the third independent project for Android Basics in Kotlin
+Finished code for the third independent project for Android Basics in Kotlin
 
 Introduction
 ------------
 
-This is the starter code for the Lunch Tray app project. This project is an opportunity for you to
+This is the finished code for the Lunch Tray app project. This project is an opportunity for you to
 demonstrate the concepts you learned in Unit 3 of Android Basics in Kotlin.
 
 Pre-requisites
@@ -17,9 +17,9 @@ Pre-requisites
 Getting Started
 ---------------
 
-1. Download the starter code
+1. Download the finished code
 2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
+3. Done
 
 Tips
 ----
